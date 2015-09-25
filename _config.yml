@@ -1,0 +1,27 @@
+title: Recetas Naranjas
+url: "https://developer.bohemiancoding.com" # need to change this when we use our own site
+github_repo:  https://github.com/bomberstudios/recetas
+
+# Build settings
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'with_toc_data']
+sass:
+  style: compressed
+
+# Dynamic Content
+collections:
+  recetas:
+    output: true
+    permalink: /receta/:path/
+  ingredientes:
+    output: true
+    permalink: /ingrediente/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
