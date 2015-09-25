@@ -6,12 +6,13 @@ layout: default
   <h1>{{page.title}}</h1>
   <h4>Dificultad: {{page.dificultad}} • Tiempo: {{page.tiempo}}</h4>
 
-  <h2>Ingredientes</h2>
-
-  <ul>
+  <h2>Ingredientes (para {{page.cantidad}})</h2>
+  <ul class="ingredientes">
   {% for ingrediente in page.ingredientes %}
-    <li><a href="/ingrediente/{{ingrediente.name | }}"></a>{{ingrediente.nombre | capitalize }}{% if ingrediente.cantidad%}: {{ingrediente.cantidad}}{%endif%}</li>
+    <li><a href="/ingrediente/{{ingrediente.nombre | slugify}}">{{ingrediente.nombre | capitalize }}</a>{% if ingrediente.cantidad%}: {{ingrediente.cantidad}}{%endif%}</li>
   {% endfor %}
   </ul>
+
   {{ content }}
+
 </div>

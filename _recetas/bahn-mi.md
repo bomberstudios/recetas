@@ -3,6 +3,7 @@ title: Bahn Mi
 date: 2015-09-05
 dificultad: media
 tiempo: 30 minutos
+cantidad: 4 bocadillos
 ingredientes:
   - nombre: pan de baguette
     cantidad: 2 barras
@@ -15,26 +16,18 @@ ingredientes:
   - nombre: zanahoria
     cantidad: 1 grande
   - nombre: salsa hoisin
+  - nombre: salsa de soja
+  - nombre: vinagre de arroz
+  - nombre: mayonesa
+  - nombre: cilantro
+  - nombre: miel
+  - nombre: sal
+  - nombre: azúcar moreno
 ---
 
 ![](https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378140_1617343951884519_466218161_n.jpg)
 
 El banh mi es un bocadillo típico de la cocina vietnamita. Como la tortilla de patatas, cada uno lo hace como quiere y no hay una receta canónica, aunque casi todas coinciden en 3 cosas imprescindibles: cilantro, encurtidos y salsa hoisin.
-
-## Ingredientes (para 4 bocadillos)
-
-- Dos barras de pan de baguette
-- Un solomillo de cerdo de unos 400gr
-- Paté de hígado de cerdo
-- Un pepino pequeño, o [daikon](https://es.wikipedia.org/wiki/Raphanus_sativus) si lo encuentras
-- Una zanahoria grande
-- Salsa hoisin
-- Mayonesa (mejor casera, pero puede ser de bote)
-- Vinagre de arroz
-- Cilantro
-- Miel
-- Sal
-- Azúcar moreno
 
 ## Utensilios
 

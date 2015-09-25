@@ -34,7 +34,18 @@ footer {
 
 // Receta
 .receta {
+  color: #333;
+  line-height: 1.35em;
+  ul li {
+    margin: 0.2em 0;
+  }
   img {
     max-width: 500px;
+  }
+  .ingredientes {
+    a {
+      color: #666;
+      text-decoration: none;
+    }
   }
 }
