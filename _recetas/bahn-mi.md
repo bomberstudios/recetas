@@ -1,8 +1,21 @@
 ---
 title: Bahn Mi
+date: 2015-09-05
+dificultad: media
+tiempo: 30 minutos
+ingredientes:
+  - nombre: pan de baguette
+    cantidad: 2 barras
+  - nombre: solomillo de cerdo
+    cantidad: 400gr
+  - nombre: paté de hígado de cerdo
+    cantidad: una tarrina pequeña
+  - nombre: pepino
+    cantidad: 1 pequeño
+  - nombre: zanahoria
+    cantidad: 1 grande
+  - nombre: salsa hoisin
 ---
-
-# Bahn Mi
 
 ![](https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378140_1617343951884519_466218161_n.jpg)
 

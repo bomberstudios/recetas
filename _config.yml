@@ -1,5 +1,5 @@
 title: Recetas Naranjas
-url: "https://developer.bohemiancoding.com" # need to change this when we use our own site
+url: "https://recetas.sofanaranja.com" # need to change this when we use our own site
 github_repo:  https://github.com/bomberstudios/recetas
 
 # Build settings
@@ -25,3 +25,8 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "recetas"
+    values:
+      layout: "receta"

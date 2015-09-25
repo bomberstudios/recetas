@@ -3,8 +3,6 @@ title: Kitchen, Sweet Kitchen
 layout: default
 ---
 
-## Recetas
-
 {% for receta in site.recetas %}
-- yo
+- [{{receta.title}}]({{receta.url}})
 {% endfor %}
