@@ -6,6 +6,10 @@ layout: default
   <h1>{{page.title}}</h1>
   <h4>Dificultad: {{page.dificultad}} • Tiempo: {{page.tiempo}}</h4>
 
+  {% if page.image %}
+  <div class="photo"><img src="{{page.image}}" /></div>
+  {% endif %}
+
   <h2>Ingredientes (para {{page.cantidad}})</h2>
   <ul class="ingredientes">
   {% for ingrediente in page.ingredientes %}

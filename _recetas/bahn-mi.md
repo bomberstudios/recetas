@@ -3,6 +3,7 @@ title: Bahn Mi
 date: 2015-09-05
 dificultad: media
 tiempo: 30 minutos
+image: https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378140_1617343951884519_466218161_n.jpg
 cantidad: 4 bocadillos
 ingredientes:
   - nombre: pan de baguette
@@ -24,8 +25,6 @@ ingredientes:
   - nombre: sal
   - nombre: azúcar moreno
 ---
-
-![](https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11378140_1617343951884519_466218161_n.jpg)
 
 El banh mi es un bocadillo típico de la cocina vietnamita. Como la tortilla de patatas, cada uno lo hace como quiere y no hay una receta canónica, aunque casi todas coinciden en 3 cosas imprescindibles: cilantro, encurtidos y salsa hoisin.
 
