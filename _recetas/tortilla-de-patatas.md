@@ -1,7 +1,10 @@
 ---
 title: Tortilla de patatas
 date: 2014-06-08
+dificultad: media
+tiempo: 30 minutos
 cantidad: 2 adultos y una niña de 3 años
+image: https://scontent-mad1-1.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/10525487_569853133117406_711005057_n.jpg
 ingredientes:
   - nombre: patatas
     cantidad: 2 grandes
