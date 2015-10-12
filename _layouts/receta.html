@@ -13,7 +13,8 @@ layout: default
   <h2>Ingredientes (para {{page.cantidad}})</h2>
   <ul class="ingredientes">
   {% for ingrediente in page.ingredientes %}
-    <li><a href="/ingrediente/{{ingrediente.nombre | slugify}}">{{ingrediente.nombre | capitalize }}</a>{% if ingrediente.cantidad%}: {{ingrediente.cantidad}}{%endif%}</li>
+    <li><span class="n">{{ingrediente.nombre | capitalize }}</span>{% if ingrediente.cantidad%}: {{ingrediente.cantidad}}{%endif%}</li>
+    <!-- <li><a href="/ingrediente/{{ingrediente.nombre | slugify}}">{{ingrediente.nombre | capitalize }}</a>{% if ingrediente.cantidad%}: {{ingrediente.cantidad}}{%endif%}</li> -->
   {% endfor %}
   </ul>
 
