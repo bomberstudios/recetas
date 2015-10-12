@@ -4,7 +4,7 @@
 @import "normalize";
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 
-$font-stack: 'Helvetica Neue', 'Helvetica', sans-serif;
+$font-stack: 'Helvetica', sans-serif;
 $title-font: 'Montserrat';
 // $title-font: 'Helvetica';
 $layout-width: 600px;
@@ -13,6 +13,7 @@ body {
   font-family: $font-stack;
   line-height: 1.3em;
   font-weight: 200;
+  letter-spacing: -0.2px;
   margin: 1em;
 }
 
@@ -44,7 +45,6 @@ header {
   h1, a {
     font-size: 20px;
     color: #f60;
-    font-weight: 200;
   }
   a {
     text-decoration: none;
@@ -61,10 +61,12 @@ footer {
 // Receta
 .receta {
   color: #333;
+  line-height: 1.35em;
+
   h1, h2, h3, h4, h5, h6 {
     color: #555;
+    letter-spacing: -0.7px;
   }
-  line-height: 1.35em;
   ul {
     // margin: 0;
     padding-left: 1.5em;
@@ -78,8 +80,7 @@ footer {
       left:-0.5em;
     }
     text-indent:-1em;
-    // padding-left: 0;
-    margin: 0.4em 0;
+    margin: 0.5em 0;
   }
   img {
     width: 100%;
