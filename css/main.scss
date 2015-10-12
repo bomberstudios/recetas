@@ -2,19 +2,41 @@
 # Recetas
 ---
 @import "normalize";
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+$font-stack: 'Helvetica Neue', 'Helvetica', sans-serif;
+$title-font: 'Montserrat';
+// $title-font: 'Helvetica';
+$layout-width: 600px;
 
 body {
-  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-family: $font-stack;
+  line-height: 1.3em;
   font-weight: 200;
   margin: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
+  font-family: $title-font, $font-stack;
+  line-height: 1.2em;
+  font-weight: 700;
 }
+h2, h3, h4, h5, h6 {
+  margin-top: 1.4em;
+}
+
 a {
   color: #f60;
   text-decoration: none;
+}
+
+// Layout Width
+header,
+.page-content,
+footer {
+  width: 100%;
+  max-width: $layout-width;
+  margin: 0 auto;
 }
 
 // Header
@@ -33,6 +55,7 @@ header {
 footer {
   color: #999;
   font-size: 0.9em;
+  margin-top: 3em;
 }
 
 // Receta
@@ -40,10 +63,11 @@ footer {
   color: #333;
   line-height: 1.35em;
   ul li {
-    margin: 0.2em 0;
+    margin: 0.4em 0;
   }
   img {
-    max-width: 500px;
+    width: 100%;
+    max-width: $layout-width;
   }
   .ingredientes {
   }
