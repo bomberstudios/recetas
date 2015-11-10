@@ -7,7 +7,7 @@
 $font-stack: 'Helvetica', sans-serif;
 $title-font: 'Montserrat';
 // $title-font: 'Helvetica';
-$layout-width: 600px;
+$layout-width: 50rem;
 
 body {
   font-family: $font-stack;
@@ -16,6 +16,16 @@ body {
   letter-spacing: -0.2px;
   margin: 1em;
 }
+
+@media all and (min-width: 960px) {
+  body{ font-size: 110%; }
+}
+ @media all and (max-width: 959px) and (min-width: 600px) {
+   body{ font-size: 100%; }
+ }
+ @media all and (max-width: 599px) {
+   body{ font-size: 80%; }
+ }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $title-font, $font-stack;
@@ -87,6 +97,10 @@ footer {
     max-width: $layout-width;
   }
   .ingredientes {
-    .n { color: #f60; }
+    .n {
+      font-weight: 600;
+      color: #444;
+    }
+    a.n { color: #f60; }
   }
 }

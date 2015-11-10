@@ -17,6 +17,7 @@ ingredientes:
   - nombre: zanahoria
     cantidad: 1 grande
   - nombre: salsa hoisin
+    url: http://www.directoalpaladar.com/ingredientes-y-alimentos/salsa-hoisin-la-barbacoa-de-las-salsas-asiaticas
   - nombre: salsa de soja
   - nombre: vinagre de arroz
   - nombre: mayonesa
