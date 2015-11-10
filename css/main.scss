@@ -68,6 +68,26 @@ footer {
   margin-top: 3em;
 }
 
+ul {
+  // margin: 0;
+  padding-left: 1.5em;
+  list-style-type: none;
+}
+ul li {
+  &:before {
+    color: #999;
+    content:"—";
+    position:relative;
+    left:-0.5em;
+  }
+  text-indent:-1em;
+  margin: 0.5em 0;
+}
+.index li {
+  font-family: $title-font;
+  font-weight: 700;
+}
+
 // Receta
 .receta {
   color: #333;
@@ -77,22 +97,9 @@ footer {
     color: #555;
     letter-spacing: -0.7px;
   }
-  ul {
-    // margin: 0;
-    padding-left: 1.5em;
-    list-style-type: none;
-  }
-  ul li {
-    &:before {
-      color: #999;
-      content:"—";
-      position:relative;
-      left:-0.5em;
-    }
-    text-indent:-1em;
-    margin: 0.5em 0;
-  }
   img {
+    border-radius: 1rem;
+    box-shadow: rgba(0,0,0,0.4) 0 1rem 3rem;
     width: 100%;
     max-width: $layout-width;
   }
