@@ -16,7 +16,7 @@ ingredientes:
     cantidad: 1 cucharada sopera
   - nombre: leche
     cantidad: 1 vaso (250 ml)
-  - nombre: curry amarillo en polvo (del cutre que venden en los supermercados que no pica : )
+  - nombre: "curry amarillo en polvo (del cutre que venden en los supermercados que no pica : )"
     cantidad: 1 ó 2 cucharaditas
   - nombre: aceite de girasol
     cantidad: 2 cucharadas soperas
