@@ -43,4 +43,4 @@ En casa somos muy de tortilla de patatas con salmorejo, así que casi siempre la
 
 Si tienes en casa un vino blanco de uvas gewürztraminer, y no te importa usarlo para la tortilla, pruébalo. El resultado es bastante curioso. También puedes usar cava.
 
-Si no quieres pelar ni freir patatas, puedes probar la [variantes con patatas chips](http://www.pequerecetas.com/receta/tortilla-patatas-chips/).
+Si no quieres pelar ni freir patatas, puedes probar la [variante con patatas chips](http://www.pequerecetas.com/receta/tortilla-patatas-chips/).
