@@ -20,10 +20,6 @@ ingredientes:
   - nombre: curry en polvo
     cantidad: 1 cucharadita
   - nombre: ketchup
-  - nombre: cilantro
-  - nombre: miel
-  - nombre: sal
-  - nombre: azúcar moreno
 ---
 
 ## Preparación
