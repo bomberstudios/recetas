@@ -3,9 +3,9 @@ url: "https://recetas.sofanaranja.com" # need to change this when we use our own
 github_repo:  https://github.com/bomberstudios/recetas
 
 # Build settings
-highlighter: pygments
-markdown: redcarpet
-redcarpet:
+# highlighter: pygments # this is deprecated in 3.0
+# markdown: redcarpet # this is deprecated too
+kramdown:
   extensions: ['smart', 'no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'with_toc_data']
 sass:
   style: compressed
