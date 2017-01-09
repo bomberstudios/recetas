@@ -4,7 +4,8 @@ layout: default
 ---
 
 <ul class="index">
-{% for receta in site.recetas %}
+{% assign recetas = (site.recetas | sort: 'title') %}
+{% for receta in recetas %}
   <li><a href="{{receta.url}}">{{receta.title}}</a></li>
 {% endfor %}
 </ul>
