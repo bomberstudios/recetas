@@ -23,3 +23,8 @@ Lo puedes guardar hasta una semana en la nevera (si es que te dura tanto) o cong
 
 ## Usos
 El dashi vale para todo! Su uso principal es hacer [sopa de miso](/receta/sopa-de-miso/), pero lo puedes usar como caldo para enriquecer cualquier guiso (especialmente de pescado), o para saltear verduras, o como salmuera para carnes antes de cocinarlas al horno o a baja temperatura…
+
+Recetas donde puedes usarlo:
+
+- [Sopa de Miso](/receta/sopa-de-miso/)
+- [Berenjenas con Miso Rojo](/receta/berenjenas-con-miso-rojo/)
