@@ -16,7 +16,7 @@ ingredientes:
     cantidad: 1
   - nombre: cebolla frita
   - nombre: salsa sweet chili for chicken
-    url: https://wenzhousupermercados.com/salsa-agripicante-para-pollo-295ml
+    url: http://www.flyinggoosebrand.com/sweet-chilli-sauce/index.html
   - nombre: cardamomo
     cantidad: 1 vaina
   - nombre: cebollino (opcional)
