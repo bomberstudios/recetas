@@ -1,9 +1,17 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>{{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  </head>
   <body>
 
-    {% include header.html %}
+    <header>
+      <h1><a href="/">{{site.title}}</a></h1>
+    </header>
 
     <div class="page-content">
       <div class="wrapper">
@@ -11,7 +19,7 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    <footer>Hecho con 🍊 por Ale M • <a href="{{site.github_repo}}">Código fuente en GitHub</a>, por si quieres contribuir : )</footer>
 
   </body>
 </html>

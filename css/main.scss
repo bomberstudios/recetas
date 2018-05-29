@@ -1,36 +1,25 @@
 ---
 # Recetas
 ---
-@import "normalize";
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
-
-$font-stack: 'Helvetica', sans-serif;
-$title-font: 'Montserrat';
-// $title-font: 'Helvetica';
 $layout-width: 50rem;
 
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font: 400 16px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; //1.48125
+  color: #222;
+  // Enabling kerning and optional ligatures
+  text-rendering: optimizeLegibility;
+}
+
 body {
-  font-family: $font-stack;
-  line-height: 1.3em;
-  font-weight: 200;
-  letter-spacing: -0.2px;
+  line-height: 1.2em;
   margin: 1em;
 }
 
-@media all and (min-width: 960px) {
-  body{ font-size: 110%; }
-}
- @media all and (max-width: 959px) and (min-width: 600px) {
-   body{ font-size: 100%; }
- }
- @media all and (max-width: 599px) {
-   body{ font-size: 80%; }
- }
-
 h1, h2, h3, h4, h5, h6 {
-  font-family: $title-font, $font-stack;
   line-height: 1.2em;
-  font-weight: 700;
+//  font-weight: 700;
 }
 h2, h3, h4, h5, h6 {
   margin-top: 1.4em;
@@ -84,7 +73,6 @@ ul li {
   margin: 0.5em 0;
 }
 .index li {
-  font-family: $title-font;
   font-weight: 700;
 }
 
