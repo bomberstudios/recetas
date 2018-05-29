@@ -2,7 +2,7 @@
 title: Arroz Negro Venere con Gambones
 date: 2018-01-08
 dificultad: media
-tiempo: 45 minutos
+tiempo: 40 minutos
 image: /images/arroz-negro-con-gambones.jpg
 cantidad: 2 personas
 ingredientes:
@@ -35,5 +35,5 @@ Esta receta está basada en un plato que hacen en [Kint](https://kintfood.com) q
   - Retirar los ajos, y en el aceite hacer los gambones (muy poquito por cada lado, para que no se desintegren). Reservar cuando estén hechos.
   - Saltear el calabacín en el aceite que nos queda, añadiendo sal, un par de cucharadas del caldo de gambón para darle sabor, y un poco de pimentón de la vera para darles color y aroma.
   - Cuando estén listos los calabacines, reservamos junto con los gambones.
-- Cuando esté listo el arroz, añadimos una cucharada a la sartén y salteamos el arroz (una vez cocido y escurrido) durante un par de minutos.
+- Cuando esté listo el arroz, añadimos una cucharada de caldo a la sartén y salteamos el arroz (una vez cocido y escurrido) durante un par de minutos.
 - Añadir al arroz el calabacín y el gambón, remover y ajustar de sal, y servir.
