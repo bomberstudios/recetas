@@ -1,6 +1,6 @@
 ---
 title: Huevos rancheros en cuenco
-image: http://photos-f.ak.instagram.com/hphotos-ak-xaf1/10601955_634114066703869_1826285216_n.jpg
+image: https://photos-f.ak.instagram.com/hphotos-ak-xaf1/10601955_634114066703869_1826285216_n.jpg
 cantidad: 3 personas
 dificultad: media
 tiempo: 10 minutos
