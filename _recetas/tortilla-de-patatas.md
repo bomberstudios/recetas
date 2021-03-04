@@ -15,7 +15,7 @@ ingredientes:
   - nombre: cerveza o vino blanco
     cantidad: 1 botellín o 1 vaso
   - nombre: leche
-    cantidad: medio vaso
+    cantidad: medio vaso (opcional)
   - nombre: sal
   - nombre: aceite
   - nombre: azúcar
@@ -24,7 +24,7 @@ ingredientes:
 ## Preparación
 
 - se pelan y se cortan las patatas, tamaño "para tortilla de patatas" (trocitos pequeños, vaya)
-- se meten en un recipiente de cristal, se les echa un chorrete de aceite y se mete 8 ó 9 minutos a potencia máxima en el microondas, tapado con film o una tapa de silicona
+- se meten en un recipiente de cristal, se les echa un chorrete de aceite, medio vaso de agua, y se ponen 10-15 minutos a potencia máxima en el microondas, tapado con film o una tapa de silicona
 - mientras se están haciendo las patatas, picamos la cebolla y la doramos a fuego lento con un poquito de aceite. Cuando empiece a coger color, se le echa encima una cucharada sopera de azúcar y se remueve para que se vaya deshaciendo
 - cuando el microondas haga "ding", se abre el botellín de cerveza, y se echa un chorrito a la cebolla y otro dentro del cocinero. Se sacan las patatas del microondas y se incorporan a la sartén con la cebolla
 - se sube un poco el fuego, y cuando nos vaya pareciendo vamos echando un chorrillo de cerveza en las patatas. También es buena idea ir añadiendo sal al gusto, hasta que al probar las patatas se te ponga cara de "esta tortilla va a estar que-te-cagas"
