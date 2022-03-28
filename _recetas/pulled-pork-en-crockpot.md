@@ -4,6 +4,7 @@ date: 2022-03-28
 dificultad: fácil
 tiempo: 5 minutos preparación, entre 8 y 16 horas de cocción (empieza a hacerlo el día antes, vaya)
 cantidad: 4 personas
+image: /images/pulled-pork.jpg
 ingredientes:
   - nombre: Aguja de cerdo, Cabeza de lomo o paleta de cerdo (o cualquier tarugo de carne de cerdo bien grasiento)
     cantidad: entre 1 y 2 kg
